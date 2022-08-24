@@ -70,7 +70,7 @@ def CreateXMP(file, rating, tags):
     ' <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">\n'\
     '  <rdf:Description rdf:about=""\n'\
     '    xmlns:xmp="http://ns.adobe.com/xap/1.0/"\n'\
-    '    xmlns:digiKam="http://www.digikam.org/ns/1.0/"\n'
+    '    xmlns:digiKam="http://www.digikam.org/ns/1.0/">\n'
 
     tail =u'  </rdf:Description>\n'\
     ' </rdf:RDF>\n'\
